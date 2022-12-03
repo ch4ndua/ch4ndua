@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @ch4ndua
+- 👋 Hi, I’m @ch4ndua. My name is Chandu. I am a junior software engineer.
+- 👀 I’m interested in responsible technology, web development, robotics, and computational linguistics.
+- 📫 If you are interested in contacting me, please [message me on LinkedIn](https://www.linkedin.com/in/chanduavni/)
 
 <!---
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 ch4ndua/ch4ndua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
