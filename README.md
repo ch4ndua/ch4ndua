@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ch4ndua. My name is Chandu. I am a junior software engineer.
+- 👋🏽 Hi, I’m @ch4ndua. My name is Chandu. I am a junior software engineer.
 - 👀 I’m interested in responsible technology, web development, robotics, and computational linguistics.
 - 📫 If you are interested in contacting me, please [message me on LinkedIn](https://www.linkedin.com/in/chanduavni/)
 
