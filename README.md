@@ -1,6 +1,5 @@
-- 👋🏽 Hi, I’m @ch4ndua. My name is Chandu.
-- 💞️ I implement and service technology for entities with a positive impact.
-- 👀 I’m interested in responsible technology, robotics, and computational linguistics.
+- 👋🏽 Hi, I’m @ch4ndua. My name is Chandu Avni.
+- 🤖 I am a technologist who implements, services, and develops software solutions. My industry and academic experience spans social robotics, privacy, and responsible technology research.
 - 📫 If you are interested in contacting me, please [message me on LinkedIn](https://www.linkedin.com/in/chanduavni/)
 
 <!---
